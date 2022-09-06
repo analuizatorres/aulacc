@@ -9,3 +9,5 @@ fi
 echo "a soma dos numeros é $(($1 + $2))"
 jnjhinhbinhinikjn
 
+echo "no alto daquele cume plantei uma roseira....."
+

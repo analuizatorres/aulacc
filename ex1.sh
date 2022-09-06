@@ -11,3 +11,6 @@ jnjhinhbinhinikjn
 
 echo "no alto daquele cume plantei uma roseira....."
 
+echo "vem sempre aqui?"
+
+
